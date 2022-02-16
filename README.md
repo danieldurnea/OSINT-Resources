@@ -55,6 +55,14 @@ Tweets Analyzer : https://github.com/x0rz/tweets_analyzer
 
 Raven : https://github.com/0x09AL/raven
 
+TIGMINT: OSINT (Open Source Intelligence) GUI software framework : https://github.com/TIGMINT/TIGMINT
+
+Open Source Intelligence Gathering Navigation and Quick Jump Oil Weather Scripts : https://github.com/delikely/OSINT-JUMP
+
+OSINT Swiss Army Knife : https://github.com/Nhoya/gOSINT
+
+mihari - A framework for continuous OSINT based threat hunting : https://github.com/ninoseki/mihari
+
 Public www : https://publicwww.com/
 
 Harpoon : https://github.com/Te-k/harpoon
