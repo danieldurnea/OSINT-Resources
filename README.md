@@ -78,6 +78,7 @@ Have I Been Pwned ? : https://haveibeenpwned.com/
 Google Certificate Transparency : https://transparencyreport.google.com/https/certificates
 
 Entrust Certificate Transparency : https://www.entrust.com/ct-search/
+
 Crt.sh (Sectigo) : https://crt.sh/
 
 Meta Presses : https://www.meta-press.es/
