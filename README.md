@@ -63,6 +63,8 @@ OSINT Swiss Army Knife : https://github.com/Nhoya/gOSINT
 
 mihari - A framework for continuous OSINT based threat hunting : https://github.com/ninoseki/mihari
 
+Token-Hunter - https://github.com/GitLab-Red-Team/token-hunter
+
 Public www : https://publicwww.com/
 
 Harpoon : https://github.com/Te-k/harpoon
